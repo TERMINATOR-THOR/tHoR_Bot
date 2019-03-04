@@ -1,0 +1,310 @@
+AddImage:
+t!addimage Add an image for the bot to directly upload
+Admin:
+t!addrole Add a role to a user.
+t!announce Announce a message to all servers the bot is in.
+t!editrole Edit role settings.
+t!removerole Remove a role from a user.
+t!selfrole Add a role to yourself.
+t!serverlock Lock a bot to its current servers only.
+Alias:
+t!alias Manage command aliases.
+Animal:
+t!cat Shows a cat
+t!cats Throws a cat bomb!
+t!dog Shows a dog
+t!dogs Throws a dog bomb!
+t!fox Shows a fox
+t!foxes Throws a fox bomb!
+t!pug Shows a pug
+t!pugs Throws a pugs bomb!
+AnnounceDaily:
+t!announcedaily Base command for managing AnnounceDaily settings
+t!runannounce Manually run the daily announcement
+Audio:
+t!audioset Music configuration options.
+t!audiostats Audio stats.
+t!bump Bump a track number to the top of the queue.
+t!disconnect Disconnect from the voice channel.
+t!llsetup Lavalink server configuration options.
+t!local Local playback commands.
+t!now Now playing.
+t!pause Pause and resume.
+t!percent Queue percentage.
+t!play Play a URL or search for a track.
+t!playlist Playlist configuration options.
+t!prev Skip to the start of the previously played track.
+t!queue List the queue.
+t!remove Remove a specific track number from the queue.
+t!repeat Toggle repeat.
+t!search Pick a track with a search.
+t!seek Seek ahead or behind on a track by seconds.
+t!shuffle Toggle shuffle.
+t!sing Make Red sing one of her songs
+t!skip Skip to the next track.
+t!stop Stop playback and clear the queue.
+t!volume Set the volume, 1% - 150%.
+Autorole:
+t!autorole Change settings for autorole
+Away:
+t!away Tell the bot you're away or back.
+t!awaysettings View your current away settings
+t!dnd Set an automatic reply when you're dnd.
+t!gaming Set an automatic reply when you're playing a specified game.
+t!idle Set an automatic reply when you're idle.
+t!listening Set an automatic reply when you're listening to Spotify.
+t!offline Set an automatic reply when you're offline.
+t!streaming Set an automatic reply when you're streaming.
+t!toggleaway Toggle away messages on the whole server.
+Badges:
+t!badges Creates a fun fake badge based on your discord profile
+t!gbadges Creates a fun fake gif badge based on your discord profile
+t!listbadges List the available badges that can be created
+Bank:
+t!bankset Base command for bank settings.
+Battleship:
+t!battleship Start a game of battleship.
+t!battleshipset Config options for batteship.
+t!battleshipstop Stop the game of battleship in this channel.
+Birthdays:
+t!bday Birthday settings
+Blurplefy:
+t!blurple Check a user or uploaded image for blurple content.
+t!blurplefy Blurplefy a user or uploaded image.
+t!blurplerole Toggle a role award for having a blurple profile picture.
+t!blurpleroleset Sets the role to award if blurplerole is on.
+t!countdown Countdown to Discord's 4th Anniversary.
+
+CCRole:
+t!ccrole Custom commands management with roles
+Casino:
+t!allin Bets all your currency for a chance to win big!
+t!blackjack Play a game of blackjack.
+t!casino Interacts with the Casino system.
+t!casinoset Changes Casino settings
+t!coin Coin flip game with a 50/50 chance to win.
+t!craps Plays a modified version of craps
+t!cups Guess which cup of three is hiding the coin.
+t!dice Roll a set of dice and win on 2, 7, 11, 12.
+t!double Play a game of Double Or Nothing.
+t!hilo Pick high, low, or 7 in a dice rolling game.
+t!war Play a modified game of war.
+CatFact:
+t!catfact Gets a random cat fact.
+Chatchart:
+t!chatchart Generates a pie chart, representing the last 5000 messages in the specified channel.
+Cleanup:
+t!cleanup Delete messages.
+CogManagerUI:
+t!addpath Add a path to the list of available cog paths.
+t!cogs Lists all loaded and available cogs.
+t!installpath Returns the current install path or sets it if one is provided.
+t!paths Lists current cog paths in order of priority.
+t!removepath Removes a path from the available cog paths given the path_number
+t!reorderpath Reorders paths internally to allow discovery of different cogs.
+Core:
+t!autoimmune Server settings for immunity from automated actions
+t!backup Creates a backup of all data for the instance.
+t!blacklist blacklist management commands.
+t!command Manage the bot's commands.
+t!contact Sends a message to the owner
+t!dm Sends a DM to a user
+t!embedset Commands for toggling embeds on or off.
+t!helpset Manage settings for the help command.
+t!info Shows info about Red
+t!invite Show's Red's invite url
+t!leave Leaves server
+t!listlocales Lists all available locales
+t!load Loads packages
+t!localblacklist blacklist management commands.
+t!localwhitelist Whitelist management commands.
+t!reload Reloads packages
+t!restart Attempts to restart Red
+t!servers Lists and allows to leave servers
+t!set Changes Red's settings
+t!shutdown Shuts down the bot
+t!traceback Sends to the owner the last command exception that has occurred
+Core: (continued)
+t!unload Unloads packages
+t!uptime Shows Red's uptime
+t!whitelist Whitelist management commands.
+CustomCommands:
+t!customcom Custom commands management.
+Dad:
+t!dad Dad joke superhub
+t!dadjoke
+Downloader:
+t!cog Cog installation management commands.
+t!findcog Find which cog a command comes from.
+t!pipinstall Install a group of dependencies using pip.
+t!repo Repo management commands.
+Economy:
+t!bank Manage the bank.
+t!economyset Manage Economy settings.
+t!leaderboard Print the leaderboard.
+t!payday Get some free currency.
+t!payouts Show the payouts for the slot machine.
+t!slot Use the slot machine.
+Elements:
+t!element Display information about an element
+t!elements Display information about multiple elements
+t!ptable Display a menu of all elements
+
+EmojiReactions:
+t!emojireact Automatically react to messages with emojis in them with the emoji
+Encoding:
+t!decode Decode a string.
+t!encode Encode a string.
+t!hash MD5 Encrypt Text
+ExtendedModLog:
+t!modlogtoggles Toggle various extended modlog notifications
+Filter:
+t!filter Add or remove words from server filter.
+t!filterset Manage filter settings.
+Flag:
+t!allflag Lists all flags for the server
+t!clearallflag Clears all flags for all members in this server
+t!clearflag Clears flags for a member
+t!flag Flag a member
+t!flagset My custom cog
+t!listflag Lists flags for a member
+Fun:
+t!oof react :o2::regional_indicator_o::regional_indicator_f: to a message
+t!react Add letter(s) as reaction to previous message.
+t!regional Replace letters with regional indicator emojis
+t!space Add n spaces between each letter. Ex: [p]space 2 thicc
+t!textflip Flip given text.
+t!vowelreplace Replaces all vowels in a word with a letter
+General:
+t!8 Ask 8 ball a question.
+t!choose Choose between multiple options.
+t!flip Flip a coin... or a user.
+t!lmgtfy Create a lmgtfy link.
+t!roll Roll a random number.
+t!rps Play Rock Paper Scissors.
+t!stopwatch Start or stop the stopwatch.
+t!urban Search the Urban Dictionary.
+Hangman:
+t!hangman Play hangman with the bot.
+t!hangmanset Config options for hangman.
+Inspirobot:
+t!inspireme Fetch a random "inspirational message" from the bot.
+Insult:
+t!insult Insult the user
+LastSeen:
+t!lseen Just says the time the user was last seen
+t!lseenset Change settings for lseen
+Leveler:
+t!levelerset Configuration commands.
+t!profile Show your leveler progress. Default to yourself.
+t!profileset Change settings of your profile.
+t!register Allow you to start earning experience !
+t!toplevel Show the server leaderboard !
+LoveCalculator:
+t!lovecalculator Calculate the love percentage!
+MassDM:
+t!massdm Sends a DM to all Members with the given Role.
+Mod:
+t!ban Ban a user from this server.
+t!hackban Pre-emptively ban a user from this server.
+t!ignore Add servers or channels to the ignore list.
+t!kick Kick a user.
+t!modset Manage server administration settings.
+t!mute Mute users.
+t!names Show previous names and nicknames of a user.
+t!rename Change a user's nickname.
+t!softban Kick a user and delete 1 day's worth of their messages.
+t!tempban Temporarily ban a user from this server.
+t!unban Unban a user from this server.
+t!unignore Remove servers or channels from the ignore list.
+t!unmute Unmute users.
+t!userinfo Show information about a user.
+t!voiceban Ban a user from speaking and listening in the server's voice channels.
+t!voiceunban Unban a user from speaking and listening in the server's voice channels.
+ModLog:
+t!case Show the specified case.
+t!modlogset Manage modlog settings.
+t!reason Specify a reason for a modlog case.
+Otherbot:
+t!otherbot Otherbot configuration options.
+PDA:
+t!pat Pat users.
+Pingtime:
+t!pingtime Ping pong.
+
+Pokedex:
+t!pokedex Search for information on a Pokémon
+t!pokemon This is the list of Pokémon queries you can perform.
+RPSLS:
+t!rpsls Play Rock Paper Scissors Lizard Spock by Sam Kass in Discord!
+Race:
+t!race Race related commands.
+t!setrace Race settings commands
+Raffle:
+t!raffle Raffle group command
+t!setraffle Set Raffle group command
+ReTrigger:
+t!retrigger Setup automatic triggers based on regular expressions
+Reminder:
+t!remind Remind yourself of something in a specific amount of time
+Reports:
+t!report Send a report.
+t!reportset Manage Reports.
+RussianRoulette:
+t!russian Start or join a game of russian roulette.
+t!russianversion
+t!setrussian Russian Roulette Settings group.
+Seen:
+t!seen Shows last time a user was seen in chat
+ServerInfo:
+t!serverinfo Show server information.
+ServerStats:
+t!avatar Display a users avatar in chat
+t!channelstats Gets total messages in a specific channel as well as the user who
+t!emoji Post a large size emojis in chat
+t!getguild Display info about servers the bot is on
+t!getreactions Gets a list of all reactions from specified message and displays the user ID,
+t!getroles Displays all roles their ID and number of members in order of
+t!guildedit Edit various guild settings
+t!guildemojis Display all server emojis in a menu that can be scrolled through
+t!listchannels Lists channels and their position and ID for a server
+t!nummembers Display number of users on a server
+t!pruneroles Perform various actions on users who haven't spoken in x days
+t!removeguildjoin Stop bots join/leave server messages
+t!serverstats Gets total messages on the server and displays each channel 
+t!setguildjoin Set a channel to see new servers the bot is joining
+ServerStats: (continued)
+t!slowmode Set a channels slowmode setting
+t!topic Sets a specified channels topic
+t!topmembers Lists top members on the server by join date
+Shop:
+t!inventory Displays your purchased items.
+t!setshop Shop Settings group command
+t!shop Shop group command
+StealEmoji:
+t!stealemoji Base command for this cog. Check help for the commands list.
+StickyRoles:
+t!stickyroles Adds / removes roles to be reapplied on join
+Trivia:
+t!trivia Start trivia session on the specified category.
+t!triviaset Manage Trivia settings.
+Warnings:
+t!actionlist List all configured automated actions for Warnings.
+t!reasonlist List all configured reasons for Warnings.
+t!unwarn Remove a warning from a user.
+t!warn Warn the user for the specified reason.
+t!warnaction Manage automated actions for Warnings.
+t!warnings List the warnings for the specified user.
+t!warningset Manage settings for Warnings.
+t!warnreason Manage warning reasons.
+Weather:
+t!weather Display weather in a given location
+t!weatherset Set user or guild default units
+Welcome:
+t!welcomeset Sets welcome module settings
+WelcomeCount:
+t!wcount Manage settings for WelcomeCount.
+WordStats:
+t!topchatters Prints the members who have said the most words.
+t!wordstats Prints the most commonly used words.
+t!wordstatsset Config options for wordstats.
