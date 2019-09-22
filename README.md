@@ -6,10 +6,11 @@ tHoR bot
 
 | Name | Status/Version | Description (Click to see full status)
 | --- | --- | --- |
-| AdminUtils: | **2.4.0** | <details><summary>Moderation Cog</summary> emoji Manage emoji
-massnick Mass nicknames everyone on the server
-prune Cleanup inactive server members
-resetnicks Resets nicknames on the server</details>|
+| AdminUtils: | **2.4.0** | <details><summary>Moderation Cog</summary>
+  `emoji` Manage emoji 
+  `massnick` Mass nicknames everyone on the server
+   `prune` Cleanup inactive server members
+   `resetnicks` Resets nicknames on the server</details>|
 | Notsobot | **Release**| <details><summary>Working cog for many of NotSoBot's commands.</summary> Has lots of requirements, view the [cog README.md](https://github.com/TrustyJAID/Trusty-cogs/blob/master/notsobot/README.md) for details. </details> |
 | ReTrigger | **2.6.5** | <details><summary>Trigger events based on regex!</summary>Note: This repo requires pillow to allow resizing of images.</details> |
 | Spoiler | **Beta**| <details><summary>Post spoiler messages in chat and react to the message to view the spoilers. </summary></details> |
